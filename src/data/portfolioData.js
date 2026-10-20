@@ -11,6 +11,7 @@ export const personalInfo = {
   tagline: "MCA student building practical web applications and exploring AI-powered software solutions.",
   bio: "I'm an MCA student who enjoys building practical web applications and exploring AI-powered software solutions. I focus on developing useful projects, improving my technical skills, and solving real-world problems through code.",
   aboutExtended: "I am pursuing my Master of Computer Applications (MCA) and am currently in my second year. With hands-on experience spanning both frontend and backend development technologies, I am passionate about engineering reliable software systems and exploring the potential of AI-powered tooling. I am actively seeking internship and full-time software development opportunities where I can contribute to impactful products and continue to grow as an engineer.",
+  profileImage: "/profile.jpg",
   education: {
     degree: "MCA (Master of Computer Applications)",
     year: "2nd Year",
